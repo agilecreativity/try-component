@@ -1,0 +1,12 @@
+** try-component
+
+Getting to know Stuart Sierra's [[https://github.com/stuartsierra/component][Component]]
+
+** Links
+
+** License
+
+Copyright © 2017 agilecreativity
+
+Distributed under the Eclipse Public License either version 1.0 or (at
+your option) any later version.
